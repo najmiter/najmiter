@@ -13,6 +13,7 @@
 - <a href="https://github.com/najmiter/Chitter" target="_blank">Chitter</a>: (Assembly code syntax highlighter)
 - <a href="https://github.com/najmiter/Noctal" target="_blank">Noctal</a>: (A very simple NASM Assembly library with basic procs)
 - <a href="https://www.knoctal.com/" target="_blank">Knoctal Website</a>: (Knoctal's company website)
+- <a href="https://najmiter.github.io/3d-donut-chart/" target="_blank">3D Donut Chart</a>: (Custom made 3d donut chart for a private project using Three.js)
 - <a href="https://najmiter.github.io/da-moon/" target="_blank">Da Moon</a>: (3D solar system model for simulating earth's and moon's movements)
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.quvik" target="_blank">Quvik</a>: (Mobile app for matric, intermediate and competetive exams students)
 - <a href="https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe" target="_blank">Neutrabize</a>: (Chrome extension for custom new tab (3D and other variants))
