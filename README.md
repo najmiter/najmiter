@@ -1,6 +1,6 @@
 # Hi 👋 
 
-- Website: <a href="https://www.najmiter.dev/" target="_blank">najmiter.dev</a> <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
+- Website: <a href="https://www.najmiter.dev/" target="_blank">najmiter.dev</a> <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,rust" height="20" />
 - Blog: <a href="https://blog.najmiter.dev/" target="_blank">blog.najmiter.dev</a> <img src="https://skillicons.dev/icons?i=astro,tailwindcss,ts" height="20" />
 
 ### Projects
@@ -8,9 +8,9 @@
 - <a href="https://intelliquarck.com/" target="_blank">Intelli Quarck (company website)</a>: (Company website with framer motion and next.js) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://pdfrizz.knoctal.com/" target="_blank">PdfRizz</a>: (A PDF editor - without any server side pdf processing involved) <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,ts,vite" height="20" />
 - <a href="https://lottie.knoctal.com/" target="_blank">Looto</a>: (A lottie file editor - without any server side file processing involved) <img src="https://skillicons.dev/icons?i=react,tailwindcss,ts" height="20" />
-- <a href="https://beutron.vercel.app/" target="_blank">Beutron</a>: (Modern inventory management) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase" height="20" />
-- <a href="https://puacp.space/" target="_blank">PUACP</a>: (A social platform for PU affliated colleges students) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,sqlite" height="20" />
-- <a href="https://doburji.com/" target="_blank">Doburji Welfare Society</a>: (Doburji's welfare society website with admin dashboard) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase" height="20" />
+- <a href="https://beutron.vercel.app/" target="_blank">Beutron</a>: (Modern inventory management) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase,prisma" height="20" />
+- <a href="https://puacp.space/" target="_blank">PUACP</a>: (A social platform for PU affliated colleges students) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,sqlite,prisma" height="20" />
+- <a href="https://doburji.com/" target="_blank">Doburji Welfare Society</a>: (Doburji's welfare society website with admin dashboard) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase,prisma" height="20" />
 - <a href="https://github.com/najmiter/Chitter" target="_blank">Chitter</a>: (Assembly code syntax highlighter) <img src="https://skillicons.dev/icons?i=js" height="20" />
 - <a href="https://github.com/najmiter/Noctal" target="_blank">Noctal</a>: (A very simple NASM Assembly library with basic procs) <img src="https://skillicons.dev/icons?i=wasm" height="20" />
 - <a href="https://github.com/najmiter/streamer" target="_blank">Streamer</a>: (Express server using ffmpeg that lets you stream (a video or screen sharing)) <img src="https://skillicons.dev/icons?i=express,nodejs" height="20" />
