@@ -11,7 +11,7 @@
 - <a href="https://beutron.vercel.app/" target="_blank">Beutron</a>: (Modern inventory management) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase,prisma" height="20" />
 - <a href="https://puacp.space/" target="_blank">PUACP</a>: (A social platform for PU affliated colleges students) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,sqlite,prisma" height="20" />
 - <a href="https://doburji.com/" target="_blank">Doburji Welfare Society</a>: (Doburji's welfare society website with admin dashboard) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,postgresql,supabase,prisma" height="20" />
-- <a href="https://github.com/najmiter/Chitter" target="_blank">Chitter</a>: (Assembly code syntax highlighter) <img src="https://skillicons.dev/icons?i=js" height="20" />
+- <a href="https://github.com/najmiter/Chitter" target="_blank">Chitter</a>: (Assembly code syntax highlighter) <img src="https://skillicons.dev/icons?i=js,wasm,rust" height="20" />
 - <a href="https://github.com/najmiter/Noctal" target="_blank">Noctal</a>: (A very simple NASM Assembly library with basic procs) <img src="https://skillicons.dev/icons?i=wasm" height="20" />
 - <a href="https://github.com/najmiter/streamer" target="_blank">Streamer</a>: (Express server using ffmpeg that lets you stream (a video or screen sharing)) <img src="https://skillicons.dev/icons?i=express,nodejs" height="20" />
 - <a href="https://github.com/najmiter/dotnet-pdf" target="_blank">Dotnet PDF</a>: (Generate pdf letters for each user from a csv file of users) <img src="https://skillicons.dev/icons?i=dotnet,cs" height="20" />
