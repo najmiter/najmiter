@@ -18,6 +18,7 @@
 - <a href="https://www.knoctal.com/" target="_blank">Knoctal Website</a>: (Knoctal's company website)
 - <a href="https://najmiter.github.io/3d-donut-chart/" target="_blank">3D Donut Chart</a>: (Custom made 3d donut chart for a private project using Three.js)
 - <a href="https://najmiter.github.io/da-moon/" target="_blank">Da Moon</a>: (3D solar system model for simulating earth's and moon's movements)
+- <a href="https://github.com/najmiter/web-ded/" target="_blank">WebDed</a>: (Space shooter with Raylib & C++)
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.quvik" target="_blank">Quvik</a>: (Mobile & Web study app for matric, intermediate and competetive exams students)
 - <a href="https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe" target="_blank">Neutrabize</a>: (Chrome extension for custom new tab (3D and other variants))
 - <a href="https://chromewebstore.google.com/detail/uog-lms-beauty-parlour/heigejlnmahflfjljmcmepehpdnlohcg" target="_blank">Dark Circles</a>: (UOG LMS dark mode extension not sure if it works with their latest version completely)
