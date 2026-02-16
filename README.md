@@ -23,7 +23,7 @@
 - <a href="https://github.com/najmiter/turboin" target="_blank">Turboin</a>: (Chrome extension for fast tab & history search) <img src="https://skillicons.dev/icons?i=ts" height="20" />
 - <a href="https://github.com/najmiter/knoctal-theme" target="_blank">Koctal Theme</a>: (VS Code theme extension) <img src="https://skillicons.dev/icons?i=vscode,ts" height="20" />
 - <a href="https://github.com/najmiter/fontit" target="_blank">Fontit</a>: (VS Code font switcher extension) <img src="https://skillicons.dev/icons?i=vscode,ts" height="20" />
-- <a href="https://najmiter.github.io/3d-donut-chart/" target="_blank">3D Donut Chart</a>: (Three.js powered 3D donut chart) <img src="https://skillicons.dev/icons?i=ts,threejs,react,vite" height="20" />
+- <a href="https://3d-donut-chart.netlify.app/" target="_blank">3D Donut Chart</a>: (Three.js powered 3D donut chart) <img src="https://skillicons.dev/icons?i=ts,threejs,react,vite" height="20" />
 - <a href="https://najmiter.github.io/da-moon/" target="_blank">Da Moon</a>: (3D earth–moon solar simulation) <img src="https://skillicons.dev/icons?i=ts,threejs,vite,react" height="20" />
 - <a href="https://github.com/najmiter/web-ded" target="_blank">WebDed</a>: (Space shooter using Raylib & C++) <img src="https://skillicons.dev/icons?i=cpp,wasm" height="20" />
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.kamputar" target="_blank">Kamputar</a>: (Android IDE & compiler app) <img src="https://skillicons.dev/icons?i=ts,tailwindcss,react" height="20" />
