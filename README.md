@@ -31,3 +31,20 @@
 - <a href="https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe" target="_blank">Neutrabize</a>: (3D new tab chrome extension) <img src="https://skillicons.dev/icons?i=ts,threejs" height="20" />
 - <a href="https://chromewebstore.google.com/detail/uog-lms-beauty-parlour/heigejlnmahflfjljmcmepehpdnlohcg" target="_blank">Dark Circles</a>: (UOG LMS dark mode chrome extension) <img src="https://skillicons.dev/icons?i=js" height="20" />
 - A few more but they're not projects - just a bunch of code which is probably available on this account somewhere
+
+### I make courses too
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbVBP7Qs8Yol8H_lS6yKtdCS" target="_blank">React Course</a>
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbUoDNHIOWEIx-utKIza7DYX" target="_blank">JavaScript Course</a>
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbUkZo2-X8hhi5zhgYJYUiOF" target="_blank">Next.js Course</a>
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbUTd1c3r5HGYEOAl68CJTEo" target="_blank">C# Course</a>
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbVVQF3heb_HFkTQV903I-ZO" target="_blank">C++ Course</a>
+- <a href="https://youtu.be/Xnl62FFA0Hg?si=aPXgvsB4WUPsyBk1" target="_blank">Bash Scripting Crash Course</a>
+- <a href="https://youtu.be/cZhUhfXBvJQ?si=ki0rqEzADdUYhyeM" target="_blank">NumPy Crash Course</a>
+- <a href="https://youtu.be/Y7Df9ANLCIo?si=iaCmfwXbASToyu9D" target="_blank">TypeScript Crash Course</a>
+
+### Socials
+- <a href="https://youtube.com/najmiter" target="_blank">YouTube</a>
+- <a href="https://instagram.com/najmiter" target="_blank">Instagram</a>
+- <a href="https://facebook.com/najmiter" target="_blank">Facebook</a>
+- <a href="https://x.com/najmiterer" target="_blank">X</a>
+- <a href="https://www.linkedin.com/in/najmiter" target="_blank">LinkedIn</a>
