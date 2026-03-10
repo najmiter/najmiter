@@ -41,6 +41,7 @@
 - <a href="https://youtu.be/Xnl62FFA0Hg?si=aPXgvsB4WUPsyBk1" target="_blank">Bash Scripting Crash Course</a>
 - <a href="https://youtu.be/cZhUhfXBvJQ?si=ki0rqEzADdUYhyeM" target="_blank">NumPy Crash Course</a>
 - <a href="https://youtu.be/Y7Df9ANLCIo?si=iaCmfwXbASToyu9D" target="_blank">TypeScript Crash Course</a>
+- <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbUnLVH7bh8apyzMJMkSNmGV" target="_blank">Python Course</a>
 
 ### Socials
 - <a href="https://youtube.com/najmiter" target="_blank">YouTube</a>
