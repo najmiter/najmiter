@@ -30,7 +30,7 @@
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.quvik" target="_blank">Quvik</a>: (Study app for matric & competitive exams) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,react,go,sqlite" height="20" />
 - <a href="https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe" target="_blank">Neutrabize</a>: (3D new tab chrome extension) <img src="https://skillicons.dev/icons?i=ts,threejs" height="20" />
 - <a href="https://chromewebstore.google.com/detail/uog-lms-beauty-parlour/heigejlnmahflfjljmcmepehpdnlohcg" target="_blank">Dark Circles</a>: (UOG LMS dark mode chrome extension) <img src="https://skillicons.dev/icons?i=js" height="20" />
-- A few more but they're not projects - just a bunch of code which is probably available on this account somewhere
+- A few more company's internal tools and libraries.
 
 ### I make courses too
 - <a href="https://www.youtube.com/playlist?list=PLt4rWC_3rBbVBP7Qs8Yol8H_lS6yKtdCS" target="_blank">React Course</a>
