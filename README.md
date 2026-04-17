@@ -4,6 +4,7 @@
 - Blog: <a href="https://blog.najmiter.dev/" target="_blank">blog.najmiter.dev</a> <img src="https://skillicons.dev/icons?i=astro,tailwindcss,ts" height="20" />
 
 ### Projects
+- <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://strivio.ai" target="_blank">Strivio.ai</a>: (AI powered hiring platform for companies of all sizes) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://intelliquarck.com/" target="_blank">Intelli Quarck (company website)</a>: (Company website with framer motion and next.js) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://pdfrizz.knoctal.com/" target="_blank">PdfRizz</a>: (A PDF editor - without any server side pdf processing involved) <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,ts,vite" height="20" />
