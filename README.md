@@ -5,6 +5,7 @@
 
 ### Projects
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
+- <a href="https://www.wakamiapp.com/" target="_blank">Wakami</a>: (Admin dashboard for the Wakami app) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://strivio.ai" target="_blank">Strivio.ai</a>: (AI powered hiring platform for companies of all sizes) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://intelliquarck.com/" target="_blank">Intelli Quarck (company website)</a>: (Company website with framer motion and next.js) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://www.odaqe.studio/" target="_blank">Odaqe Studio</a>: (AI powered fitness studio) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
