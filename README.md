@@ -4,6 +4,7 @@
 - Blog: <a href="https://blog.najmiter.dev/" target="_blank">blog.najmiter.dev</a> <img src="https://skillicons.dev/icons?i=astro,tailwindcss,ts" height="20" />
 
 ### Projects
+- <a href="https://najmiter.github.io/taash-wali-game" target="_blank">Spider Solitaire clone</a>: (Windows XP Spider Solitaire clone) <img src="https://skillicons.dev/icons?i=godot,figma" height="20" />
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://www.wakamiapp.com/" target="_blank">Wakami</a>: (Admin dashboard for the Wakami app) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://strivio.ai" target="_blank">Strivio.ai</a>: (AI powered hiring platform for companies of all sizes) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
