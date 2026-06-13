@@ -24,7 +24,8 @@ Following are pretty much all the things I've done online:
 - <a href="https://github.com/najmiter/web-ded" target="_blank">WebDed</a>: (Space shooter using Raylib & C++) <img src="https://skillicons.dev/icons?i=cpp,wasm" height="20" />
 - <a href="https://chromewebstore.google.com/detail/neutrabize/ppknddihdfnhmdfloaeamelpinalhppe" target="_blank">Neutrabize</a>: (3D new tab chrome extension) <img src="https://skillicons.dev/icons?i=ts,threejs" height="20" />
 - <a href="https://chromewebstore.google.com/detail/uog-lms-beauty-parlour/heigejlnmahflfjljmcmepehpdnlohcg" target="_blank">Dark Circles</a>: (UOG LMS dark mode chrome extension) <img src="https://skillicons.dev/icons?i=js" height="20" />
-- <a href="https://github.com/najmiter/the-object" target="_blank">The Object</a>: Recursively compare js objects <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
+- <a href="https://github.com/najmiter/the-object" target="_blank">The Object</a>: (Recursively compare js objects) <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
+- <a href="https://github.com/knoctal/utils" target="_blank">Utils</a>: (Common typescript utils/helper classes I use in almost every project) <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
 
 #### Closed Source
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
