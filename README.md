@@ -28,6 +28,7 @@ Following are pretty much all the things I've done online:
 - <a href="https://github.com/knoctal/utils" target="_blank">Utils</a>: (Common typescript utils/helper classes I use in almost every project) <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
 
 #### Closed Source
+- <a href="https://renovaxis.org" target="_blank">Renovaxis</a>: (Renovation company based in France) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,supabase,mui" height="20" />
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://www.wakamiapp.com/" target="_blank">Wakami</a>: (Admin dashboard for the Wakami app) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://strivio.ai" target="_blank">Strivio.ai</a>: (AI powered hiring platform for companies of all sizes) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
