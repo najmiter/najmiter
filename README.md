@@ -15,7 +15,7 @@ Following are pretty much all the things I've done online:
 - <a href="https://github.com/najmiter/dotnet-pdf" target="_blank">Dotnet PDF</a>: (Generate pdf letters for each user from a csv file of users) <img src="https://skillicons.dev/icons?i=dotnet,cs" height="20" />
 - <a href="https://github.com/najmiter/nutnut" target="_blank">NutNut</a>: (Subscription based streaming app using ASP.NET) <img src="https://skillicons.dev/icons?i=cs,dotnet,bootstrap,js" height="20" />
 - <a href="https://github.com/najmiter/bulbul" target="_blank">Bulbul</a>: (Traceable logger plugin for babel) <img src="https://skillicons.dev/icons?i=ts,js,babel,npm" height="20" />
-- <a href="https://github.com/najmiter/clipmac" target="_blank">Clipmac</a>: (MacOS clipboard manager) <img src="https://skillicons.dev/icons?i=electron,sqlite,ts" height="20" />
+- <a href="https://github.com/najmiter/clipmac" target="_blank">Clipmac</a>: (MacOS clipboard manager) <img src="https://skillicons.dev/icons?i=electron,sqlite,ts,apple" height="20" />
 - <a href="https://github.com/najmiter/stroker" target="_blank">Stroker</a>: (OS keystroke sound generator for ASMR videos) <img src="https://skillicons.dev/icons?i=python" height="20" />
 - <a href="https://github.com/najmiter/turboin" target="_blank">Turboin</a>: (Chrome extension for fast tab & history search) <img src="https://skillicons.dev/icons?i=ts" height="20" />
 - <a href="https://github.com/najmiter/knoctal-theme" target="_blank">Koctal Theme</a>: (VS Code theme extension) <img src="https://skillicons.dev/icons?i=vscode,ts" height="20" />
