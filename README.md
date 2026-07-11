@@ -6,6 +6,7 @@
 ### Projects
 Following are pretty much all the things I've done online:
 #### Open Source
+- <a href="https://world-map.knoctal.com/" target="_blank">World Map</a>: (An educational interactive world map) <img src="https://skillicons.dev/icons?i=react,typescript,d3,vite" height="20" />
 - <a href="https://najmiter.github.io/spider-solitaire-clone" target="_blank">Spider Solitaire clone</a>: (Windows XP Spider Solitaire clone) <img src="https://skillicons.dev/icons?i=godot,figma" height="20" />
 - <a href="https://pdfrizz.knoctal.com/" target="_blank">PdfRizz</a>: (A PDF editor - without any server side pdf processing involved) <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,ts,vite" height="20" />
 - <a href="https://lottie.knoctal.com/" target="_blank">Looto</a>: (A lottie file editor - without any server side file processing involved) <img src="https://skillicons.dev/icons?i=react,tailwindcss,ts" height="20" />
