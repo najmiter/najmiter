@@ -6,7 +6,6 @@
 ### Projects
 Following are pretty much all the things I've done online:
 #### Open Source
-- <a href="https://github.com/najmiter/zorrent" target="_blank">Zorrent</a>: (Torrent client for MacOS) <img src="https://skillicons.dev/icons?i=zig" height="20" />
 - <a href="https://world-map.knoctal.com/" target="_blank">World Map</a>: (An educational interactive world map) <img src="https://skillicons.dev/icons?i=react,typescript,d3,vite" height="20" />
 - <a href="https://najmiter.github.io/spider-solitaire-clone" target="_blank">Spider Solitaire clone</a>: (Windows XP Spider Solitaire clone) <img src="https://skillicons.dev/icons?i=godot,figma" height="20" />
 - <a href="https://pdfrizz.knoctal.com/" target="_blank">PdfRizz</a>: (A PDF editor - without any server side pdf processing involved) <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,ts,vite" height="20" />
@@ -30,6 +29,7 @@ Following are pretty much all the things I've done online:
 - <a href="https://github.com/knoctal/utils" target="_blank">Utils</a>: (Common typescript utils/helper classes I use in almost every project) <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
 
 #### Closed Source
+- <a href="https://najmiter.github.io/zorrent/" target="_blank">Zorrent</a>: (Torrent client for MacOS) <img src="https://skillicons.dev/icons?i=zig" height="20" />
 - <a href="https://renovaxis.org" target="_blank">Renovaxis</a>: (Renovation company based in France) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,supabase,mui" height="20" />
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://www.wakamiapp.com/" target="_blank">Wakami</a>: (Admin dashboard for the Wakami app) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
