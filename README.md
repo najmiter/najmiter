@@ -30,6 +30,7 @@ Following are pretty much all the things I've done online:
 - <a href="https://github.com/knoctal/utils" target="_blank">Utils</a>: (Common typescript utils/helper classes I use in almost every project) <img src="https://skillicons.dev/icons?i=js,ts,bun" height="20" />
 
 #### Closed Source
+- <a href="https://www.leafscan.app/" target="_blank">Leaf Scan</a>: (AI powered plant identifier and doctor) <img src="https://skillicons.dev/icons?i=react,typescript,supabase" height="20" />
 - <a href="https://zorrent.knoctal.com/" target="_blank">Zorrent</a>: (A free torrent client + YouTube downloader for MacOS & Windows) <img src="https://skillicons.dev/icons?i=zig" height="20" />
 - <a href="https://renovaxis.org" target="_blank">Renovaxis</a>: (Renovation company based in France) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,supabase,mui" height="20" />
 - <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
