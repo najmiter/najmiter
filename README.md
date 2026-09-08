@@ -41,7 +41,6 @@ Following are pretty much all the things I've done online:
 - <a href="https://www.odaqe.studio/" target="_blank">Odaqe Studio</a>: (AI powered fitness studio) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://sivi.knoctal.com" target="_blank">Sivi</a>: (A free resume builder with premium features) <img src="https://skillicons.dev/icons?i=ts,react,mui,tailwind,bun" height="20" />
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.heartfull" target="_blank">Heartfull</a>: (Android Tasbeeh Counter with period + daily reminders app) <img src="https://skillicons.dev/icons?i=ts,tailwindcss,react" height="20" />
-- <a href="https://play.google.com/store/apps/details?id=com.najmiter.kamputar" target="_blank">Kamputar</a>: (Android IDE & compiler app) <img src="https://skillicons.dev/icons?i=ts,tailwindcss,react" height="20" />
 - <a href="https://play.google.com/store/apps/details?id=com.najmiter.quvik" target="_blank">Quvik</a>: (Study app for matric & competitive exams) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,react,go,sqlite" height="20" />
 - <a href="https://3d-donut-chart.netlify.app/" target="_blank">3D Donut Chart</a>: (Three.js powered 3D donut chart) <img src="https://skillicons.dev/icons?i=ts,threejs,react,vite" height="20" />
 - <a href="https://www.knoctal.com/" target="_blank">Knoctal Website</a>: (Knoctal's company website) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
