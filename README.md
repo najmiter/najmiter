@@ -33,9 +33,9 @@ Following are pretty much all the things I've done online:
 - <a href="https://pxscanner.knoctal.com" target="_blank">PxScanner</a>: (PDF and Office tools) <img src="https://skillicons.dev/icons?i=kotlin,swift" height="20" />
 - <a href="https://www.diatic.app/" target="_blank">Diatic</a>: (Smart diabetes management app) <img src="https://skillicons.dev/icons?i=kotlin,swift,typescript,sqlite,cloudflare" height="20" />
 - <a href="https://www.leafscan.app/" target="_blank">Leaf Scan</a>: (AI powered plant identifier and doctor) <img src="https://skillicons.dev/icons?i=react,typescript,supabase" height="20" />
-- <a href="https://zorrent.knoctal.com/" target="_blank">Zorrent</a>: (A free torrent client + YouTube downloader for MacOS & Windows) <img src="https://skillicons.dev/icons?i=zig" height="20" />
+- <a href="https://zorrent.knoctal.com/" target="_blank">Zorrent</a>: (A free torrent client + YouTube downloader for MacOS, Windows, and Android) <img src="https://skillicons.dev/icons?i=zig,kotlin" height="20" />
 - <a href="https://renovaxis.org" target="_blank">Renovaxis</a>: (Renovation company based in France) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,supabase,mui" height="20" />
-- <a href="https://kayyafinancial.com" target="_blank">Kayya</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
+- <a href="https://evrfinance.com" target="_blank">EvrFinance</a>: (A fintech designed for businesses that provide professional services on loan) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://www.wakamiapp.com/" target="_blank">Wakami</a>: (Admin dashboard for the Wakami app) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
 - <a href="https://strivio.ai" target="_blank">Strivio.ai</a>: (AI powered hiring platform for companies of all sizes) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts,nestjs" height="20" />
 - <a href="https://intelliquarck.com/" target="_blank">Intelli Quarck (company website)</a>: (Company website with framer motion and next.js) <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,ts" height="20" />
